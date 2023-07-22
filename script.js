@@ -15,24 +15,24 @@ const nextBtn = document.getElementById('next');
 // music
 const songs = [
     {
-        name: 'Time',
-        displayName: 'Time',
+        name: 'jacinto-1',
+        displayName: 'Electric Chill Machine',
+        artist:'Jacinto Design',
+    },
+    {
+        name: 'No time for caution',
+        displayName: 'No time for caution',
         artist:'Hans Zimmer',
     },
     {
-        name: 'jacinto-2',
-        displayName: 'Seven Nation Army',
-        artist:'Jacinto Design',
+        name: 'Flight',
+        displayName: 'Flight',
+        artist:'Hans Zimmer',
     },
     {
-        name: 'jacinto-3',
-        displayName: 'Goodnight, disco Queen',
-        artist:'Jacinto Design',
-    },
-    {
-        name: 'metric-1',
-        displayName: 'Front Row',
-        artist:'metric/Jacinto Design',
+        name: "Kai's theme",
+        displayName: "Kai's Theme",
+        artist:'Hans Zimmer',
     }
 
 ];
