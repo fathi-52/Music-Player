@@ -15,9 +15,9 @@ const nextBtn = document.getElementById('next');
 // music
 const songs = [
     {
-        name: 'jacinto-1',
-        displayName: 'Electric Chill Machine',
-        artist:'Jacinto Design',
+        name: 'Time',
+        displayName: 'Time',
+        artist:'Hans Zimmer',
     },
     {
         name: 'jacinto-2',
