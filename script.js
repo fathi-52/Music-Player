@@ -15,13 +15,13 @@ const nextBtn = document.getElementById('next');
 // music
 const songs = [
     {
-        name: 'jacinto-1',
-        displayName: 'Electric Chill Machine',
-        artist:'Jacinto Design',
+        name: 'batman',
+        displayName: 'Dark Knight Begins',
+        artist:'Hans Zimmer',
     },
     {
-        name: 'No time for caution',
-        displayName: 'No time for caution',
+        name: 'Time',
+        displayName: 'Time',
         artist:'Hans Zimmer',
     },
     {
@@ -30,8 +30,13 @@ const songs = [
         artist:'Hans Zimmer',
     },
     {
-        name: "Kai's theme",
+        name: "Kai theme",
         displayName: "Kai's Theme",
+        artist:'Hans Zimmer',
+    },
+    {
+        name: "Hans Zimmer  Hes a Pirate",
+        displayName: "He's a Pirate",
         artist:'Hans Zimmer',
     }
 
